@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 ## Hello there
 
@@ -15,15 +16,23 @@ My name is Jeferson Oliveira. I currently live in Ceará, Brazil and I'm passion
 ### Main
 
 <div>
-  <img width="65px" style="margin-right: 5px"src="./img/php.png"/>
-  <img width="50px" src="./img/laravel.png"/>
-  <img width="50px" src="./img/mysql.svg"/>   
+  <i class="devicon-php-plain colored"></i>
+  <i class="devicon-laravel-plain-wordmark colored"></i>
+  <i class="devicon-postgresql-plain-wordmark colored"></i>
+  <i class="devicon-javascript-plain colored"></i>        
+  <i class="devicon-nodejs-plain-wordmark colored"></i>
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
 </div>
 
 ### Learning
 <div>
-  <img width="50px" src="./img/js.png"/> 
-  <img width="50px" src="./img/vue.png"/>
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 </div>
 
 ## Social Networks
